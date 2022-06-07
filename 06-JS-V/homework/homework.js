@@ -67,12 +67,7 @@ String.prototype.reverse = function(){
       this.domicilio = domicilio
   }
   detalle =function(){
-    return{
-      Nombre: 'Juan',
-      Apellido: 'Perez',
-      Edad: 22,
-      Domicilio: 'Saavedra 123'
-    }
+    return detalle;
   }
 }
 
